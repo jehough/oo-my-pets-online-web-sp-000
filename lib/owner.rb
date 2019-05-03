@@ -21,4 +21,5 @@ class Owner
   end
   def pets
     @pets = {fish: [], dogs: [], cats: []}
+  end
 end
