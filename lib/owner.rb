@@ -58,4 +58,5 @@ class Owner
     @pets[:fishes].each do |fish|
       fish.mood = 'nervous'
     end
+  end
 end
