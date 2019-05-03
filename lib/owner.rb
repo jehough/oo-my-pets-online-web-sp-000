@@ -20,6 +20,6 @@ class Owner
     "I am a #{@species}."
   end
   def pets
-    @pets = {fish: [], dogs: [], cats: []}
+    @pets = {fishes: [], dogs: [], cats: []}
   end
 end
