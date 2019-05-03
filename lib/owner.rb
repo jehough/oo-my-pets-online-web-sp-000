@@ -62,4 +62,5 @@ class Owner
     end
     @pets[:fishes].clear
   end
+  def list_pets
 end
