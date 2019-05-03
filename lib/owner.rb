@@ -20,7 +20,7 @@ class Owner
   def say_species
     "I am a #{@species}."
   end
-  def pets
+  def owner_pets
     @pets = {fishes: [], dogs: [], cats: []}
   end
   def buy_fish (name)
